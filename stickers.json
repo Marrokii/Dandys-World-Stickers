@@ -3,18 +3,106 @@
     {
       "id": "cat1",
       "name": "Food",
-      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEgGUmpcxLCkuEvgZYxtRi5kpCD8BmwMNLWqNsQeQFq2Kraau8aQyV70y9_uzpTfNugFfh2SHAm7Vdbe9KwHLLIB_De73pt_CxXpbKVz76dSXXYINPg5MMtzK2PLAxiEPRbmzAWQBjX-1bvtaoKQVQVvy1idDvUXg8Pj-1lokHg-88XfCSj-9QEvEXTPPMOf",
+      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
       "stickers": [
-        { "id": "s1", "name": "Taco", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGUmpcxLCkuEvgZYxtRi5kpCD8BmwMNLWqNsQeQFq2Kraau8aQyV70y9_uzpTfNugFfh2SHAm7Vdbe9KwHLLIB_De73pt_CxXpbKVz76dSXXYINPg5MMtzK2PLAxiEPRbmzAWQBjX-1bvtaoKQVQVvy1idDvUXg8Pj-1lokHg-88XfCSj-9QEvEXTPPMOf" },
-        { "id": "s2", "name": "Burger", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGUmpcxLCkuEvgZYxtRi5kpCD8BmwMNLWqNsQeQFq2Kraau8aQyV70y9_uzpTfNugFfh2SHAm7Vdbe9KwHLLIB_De73pt_CxXpbKVz76dSXXYINPg5MMtzK2PLAxiEPRbmzAWQBjX-1bvtaoKQVQVvy1idDvUXg8Pj-1lokHg-88XfCSj-9QEvEXTPPMOf" }
+        { "id": "s1", "name": "Taco", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s2", "name": "Burger", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s3", "name": "Pizza Slice", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s4", "name": "Hot Dog", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s5", "name": "Fries Box", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s6", "name": "Sushi Roll", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s7", "name": "Donut Pop", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s8", "name": "Ice Cream", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s9", "name": "Cupcake Star", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s10", "name": "Ramen Bowl", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s11", "name": "Pancake Stack", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s12", "name": "Cheese Toast", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s13", "name": "Fried Chicken", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s14", "name": "Berry Cake", "url": "https://i.imgur.com/N2JgBbl.jpeg" }
       ]
     },
     {
       "id": "cat2",
       "name": "Cat Stickers",
-      "banner": "https://blogger.googleusercontent.com/img/a/AVvXsEgGUmpcxLCkuEvgZYxtRi5kpCD8BmwMNLWqNsQeQFq2Kraau8aQyV70y9_uzpTfNugFfh2SHAm7Vdbe9KwHLLIB_De73pt_CxXpbKVz76dSXXYINPg5MMtzK2PLAxiEPRbmzAWQBjX-1bvtaoKQVQVvy1idDvUXg8Pj-1lokHg-88XfCSj-9QEvEXTPPMOf",
+      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
       "stickers": [
-        { "id": "s3", "name": "Talking Cat", "url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGUmpcxLCkuEvgZYxtRi5kpCD8BmwMNLWqNsQeQFq2Kraau8aQyV70y9_uzpTfNugFfh2SHAm7Vdbe9KwHLLIB_De73pt_CxXpbKVz76dSXXYINPg5MMtzK2PLAxiEPRbmzAWQBjX-1bvtaoKQVQVvy1idDvUXg8Pj-1lokHg-88XfCSj-9QEvEXTPPMOf" }
+        { "id": "s15", "name": "Talking Cat", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s16", "name": "Sleepy Kitty", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s17", "name": "Happy Paws", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s18", "name": "Mochi Cat", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s19", "name": "Tiny Whiskers", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s20", "name": "Cloud Kitty", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s21", "name": "Silly Cat", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s22", "name": "Purr Prince", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s23", "name": "Lazy Tail", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s24", "name": "Boba Cat", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s25", "name": "Choco Kitty", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s26", "name": "Jumping Paws", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s27", "name": "Mini Meow", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s28", "name": "Star Cat", "url": "https://i.imgur.com/N2JgBbl.jpeg" }
+      ]
+    },
+    {
+      "id": "cat3",
+      "name": "Animals",
+      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "stickers": [
+        { "id": "s29", "name": "Happy Panda", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s30", "name": "Little Fox", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s31", "name": "Sunny Bear", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s32", "name": "Baby Bunny", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s33", "name": "Cute Koala", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s34", "name": "Tiny Deer", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s35", "name": "Wild Tiger", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s36", "name": "Playful Pup", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s37", "name": "Sleepy Owl", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s38", "name": "Red Panda", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s39", "name": "Tiny Hamster", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s40", "name": "Cool Monkey", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s41", "name": "Sweet Duck", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s42", "name": "Brave Lion", "url": "https://i.imgur.com/N2JgBbl.jpeg" }
+      ]
+    },
+    {
+      "id": "cat4",
+      "name": "Emoji Fun",
+      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "stickers": [
+        { "id": "s43", "name": "Happy Smile", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s44", "name": "Laugh Burst", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s45", "name": "Cool Face", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s46", "name": "Heart Eyes", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s47", "name": "Wink Pop", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s48", "name": "Cry Baby", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s49", "name": "Party Mood", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s50", "name": "Love Blast", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s51", "name": "Fire Mood", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s52", "name": "Sleep Face", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s53", "name": "Angry Puff", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s54", "name": "Shiny Star", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s55", "name": "Magic Spark", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s56", "name": "Rainbow Joy", "url": "https://i.imgur.com/N2JgBbl.jpeg" }
+      ]
+    },
+    {
+      "id": "cat5",
+      "name": "Gaming",
+      "banner": "https://i.imgur.com/N2JgBbl.jpeg",
+      "stickers": [
+        { "id": "s57", "name": "Pixel Hero", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s58", "name": "Game Start", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s59", "name": "Boss Fight", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s60", "name": "Level Up", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s61", "name": "Power Boost", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s62", "name": "Magic Sword", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s63", "name": "Retro Pad", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s64", "name": "Arcade King", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s65", "name": "Speed Run", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s66", "name": "Loot Box", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s67", "name": "XP Hunter", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s68", "name": "Final Stage", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s69", "name": "Victory Star", "url": "https://i.imgur.com/N2JgBbl.jpeg" },
+        { "id": "s70", "name": "Turbo Player", "url": "https://i.imgur.com/N2JgBbl.jpeg" }
       ]
     }
   ]
